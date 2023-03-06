@@ -15,14 +15,4 @@ DAF5 v2
 DAF5 v1
 -------
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/watch?v=zphxMQCKENU"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-
 [Design files and documentation](v2/README.md).
