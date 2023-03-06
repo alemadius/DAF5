@@ -1,7 +1,7 @@
 DAF5 v2
 =======
 
-![DAF5 v2](Logo.png "DAF5 version 2")
+![DAF5 v2](logo.png "DAF5 version 2")
 
 [Presentation video](https://www.youtube.com/watch?v=1S7MkpeIuEA)
 
@@ -17,6 +17,6 @@ Images
 
 ![DAF5 v2](R001.png "DAF5 version 2")
 
-### Assembly
+### Build
 
 ![DAF5 v2](Pics/Armado.png "DAF5 version 2")
