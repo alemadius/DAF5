@@ -9,7 +9,7 @@ There are currently two versions of this frame. This repository contains the des
 DAF5 v2
 -------
 
-- [Design files and documentation](v1/README.md).
+[Design files and documentation](v1/README.md).
 
 
 DAF5 v1
