@@ -9,11 +9,8 @@ There are currently two versions of this frame. This repository contains the des
 DAF5 v2
 -------
 
-[![DAF5 v2 Presentation Video]
-(https://img.youtube.com/vi/1S7MkpeIuEA/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=1S7MkpeIuEA)
+- [Design files and documentation](v1/README.md).
 
-[Design files and documentation](v1/README.md).
 
 DAF5 v1
 -------
