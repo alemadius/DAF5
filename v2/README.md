@@ -1,9 +1,9 @@
 DAF5 v2
 =======
 
-![DAF5 v1](Logo.png "DAF5 version 1")
+![DAF5 v2](Logo.png "DAF5 version 2")
 
-[Presentation video](https://www.youtube.com/watch?v=zphxMQCKENU)
+[Presentation video](https://www.youtube.com/watch?v=1S7MkpeIuEA)
 
 **Files** (Click "Download as..." to download)
 
@@ -13,6 +13,10 @@ DAF5 v2
 Images
 ------
 
+### Render
+
+![DAF5 v2](R001.png "DAF5 version 2")
+
 ### Assembly
 
-![DAF5 v2](Pics/Armado.jpg "DAF5 version 2")
+![DAF5 v2](Pics/Armado.png "DAF5 version 2")
