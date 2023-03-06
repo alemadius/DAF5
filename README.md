@@ -9,14 +9,11 @@ DAF5 is a freestyle frame designed by [Madius](https://www.youtube.com/@MadiusYT
 DAF5 v2
 -------
 
-<iframe
-    width="640"
-    height="480"
+<iframe width="560" height="315"
     src="https://www.youtube.com/watch?v=1S7MkpeIuEA"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
+    frameborder="0" 
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
 </iframe>
 
 [Design files and documentation](v1/README.md).
